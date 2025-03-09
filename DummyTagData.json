@@ -1,0 +1,224 @@
+[
+    {
+        "PT_TAG_NAME": "PT -P101-1",
+        "Longitude": 91.463963,
+        "Latitude": 26.2035268,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -P111-1",
+        "Longitude": 91.46565088,
+        "Latitude": 26.11504096,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -P105-1",
+        "Longitude": 91.46321672,
+        "Latitude": 26.11390912,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1051-1",
+        "Longitude": 91.46324696,
+        "Latitude": 26.11296124,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -7-1",
+        "Longitude": 91.4628614,
+        "Latitude": 26.11297312,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -3-1",
+        "Longitude": 91.4636354,
+        "Latitude": 26.11312216,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1051-1",
+        "Longitude": 91.46324696,
+        "Latitude": 26.11296124,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -33-1",
+        "Longitude": 91.4722488,
+        "Latitude": 26.11455604,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -36-1",
+        "Longitude": 91.4714172,
+        "Latitude": 26.1142414,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1058-1",
+        "Longitude": 91.46339096,
+        "Latitude": 26.11251952,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -147-1",
+        "Longitude": 91.4620586,
+        "Latitude": 26.11216564,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -147-1",
+        "Longitude": 91.4620586,
+        "Latitude": 26.11216564,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1100-1",
+        "Longitude": 91.4627372,
+        "Latitude": 26.10582348,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1099-1",
+        "Longitude": 91.46141924,
+        "Latitude": 26.10158736,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -260-1",
+        "Longitude": 91.46131844,
+        "Latitude": 26.10425892,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1095-1",
+        "Longitude": 91.53339972,
+        "Latitude": 3.24366588,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1103-1",
+        "Longitude": 91.45279,
+        "Latitude": 26.10298344,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1108-1",
+        "Longitude": 91.4603432,
+        "Latitude": 26.10190488,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -521-1",
+        "Longitude": 91.45365436,
+        "Latitude": 26.10268392,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -314-1",
+        "Longitude": 91.45550008,
+        "Latitude": 26.10398316,
+        "Status": 1
+    },
+    {
+        "PT_TAG_NAME": "PT -1088-1",
+        "Longitude": 91.4525704,
+        "Latitude": 26.10304536,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -1090-1",
+        "Longitude": 91.44519648,
+        "Latitude": 26.102613,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -587-1",
+        "Longitude": 91.4521366,
+        "Latitude": 26.10334956,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -660-1",
+        "Longitude": 91.45264672,
+        "Latitude": 26.10282,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -1011-1",
+        "Longitude": 91.44590424,
+        "Latitude": 26.9569124,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -702-1",
+        "Longitude": 91.4540716,
+        "Latitude": 26.1022548,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -1083-1",
+        "Longitude": 91.4532904,
+        "Latitude": 26.10512508,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -806-1",
+        "Longitude": 91.44231324,
+        "Latitude": 26.10338376,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -880-1",
+        "Longitude": 91.44295656,
+        "Latitude": 26.10431148,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -1069-1",
+        "Longitude": 91.45361656,
+        "Latitude": 26.10220368,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -648-1",
+        "Longitude": 91.451467,
+        "Latitude": 26.1064884,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -603-1",
+        "Longitude": 91.455409,
+        "Latitude": 26.1046452,
+        "Status": 2
+    },
+    {
+        "PT_TAG_NAME": "PT -175-1",
+        "Longitude": 91.46141024,
+        "Latitude": 26.10155676,
+        "Status": 3
+    },
+    {
+        "PT_TAG_NAME": "PT -529-1",
+        "Longitude": 91.45546804,
+        "Latitude": 26.1048072,
+        "Status": 3
+    },
+    {
+        "PT_TAG_NAME": "PT -488-1",
+        "Longitude": 91.45456552,
+        "Latitude": 26.1026094,
+        "Status": 3
+    },
+    {
+        "PT_TAG_NAME": "PT -1076-1",
+        "Longitude": 91.4514058,
+        "Latitude": 26.106366,
+        "Status": 3
+    },
+    {
+        "PT_TAG_NAME": "PT -1001-1",
+        "Longitude": 91.457776,
+        "Latitude": 26.9351792,
+        "Status": 3
+    }
+]
