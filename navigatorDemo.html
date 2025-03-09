@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pressure Point navigator demo</title>
+        <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+        <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="map" style="width: 100%; height: 500px"></div>
+            <script>
+            const map = new maplibregl.Map({
+                style: 'https://tiles.openfreemap.org/styles/liberty',
+                center: [91.822925, 26.2336772],
+                zoom: 9.5,
+                container: 'map',
+            })
+            </script>
+    </body>
+</html>
