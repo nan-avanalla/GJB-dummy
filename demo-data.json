@@ -1,0 +1,6 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature", "properties": { "PointStatusColor": "#51bbd6" }, "geometry": { "type": "Point", "coordinates": [ 91.463963, 26.2035268, 0.0 ] } }
+    ]
+}
