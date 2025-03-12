@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pressure Points Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@5.2.0/dist/maplibre-gl.css' />
+    <script src='https://unpkg.com/maplibre-gl@5.2.0/dist/maplibre-gl.js'></script>
+    <style>
+        body { margin: 0; padding: 0; }
+        html, body, #map { height: 100%; }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+
+<script>
+    const map = new maplibregl.Map({
+        container: 'map',
+        style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+        center: [91.703239, 26.115103],
+        zoom: 10
+    });
+
+    map.on('load', () => {
+        map.addSource('pressure_point_stats', {
+            type: 'geojson',
+            data: 'https://nan-avanalla.github.io/GJB-dummy/demo-data-12Mar.json'
+        });
+
+        map.addLayer({
+            'id': 'nodes',
+            'type': 'circle',
+            'source': 'pressure_point_stats',
+            paint: {
+                'circle-color': ['get', 'PointStatusColor'],
+                'circle-radius': 5
+            }
+        });
+
+        map.on('mouseenter', 'clusters', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', 'clusters', () => {
+            map.getCanvas().style.cursor = '';
+        });
+
+        map.on('click', 'nodes', async (e) => {
+            const features = map.queryRenderedFeatures(e.point, {
+                layers: ['nodes']
+            });
+            const zoom = await map.getZoom() + 1.5;
+            map.easeTo({
+                center: features[0].geometry.coordinates,
+                zoom
+            });
+        });
+    });
+</script>
+</body>
+</html>
