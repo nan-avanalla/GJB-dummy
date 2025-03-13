@@ -126,7 +126,14 @@
         });
         //animated circle
 
-        map.on('mouseover', 'nodes', (e) => {
+        map.on('click', 'nodes', (e) => {
+            new maplibregl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties.TagName)
+                .addTo(map);
+        });
+
+        map.on('click', 'dots', (e) => {
             new maplibregl.Popup()
                 .setLngLat(e.lngLat)
                 .setHTML(e.features[0].properties.TagName)
@@ -143,6 +150,17 @@
         map.on('click', 'nodes', async (e) => {
             const features = map.queryRenderedFeatures(e.point, {
                 layers: ['nodes']
+            });
+            const zoom = await map.getZoom() + 1.5;
+            map.easeTo({
+                center: features[0].geometry.coordinates,
+                zoom
+            });
+        });
+
+        map.on('click', 'dots', async (e) => {
+            const features = map.queryRenderedFeatures(e.point, {
+                layers: ['dots']
             });
             const zoom = await map.getZoom() + 1.5;
             map.easeTo({
