@@ -1,0 +1,749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P101.FT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A01-P101",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P101.Battery_Value",
+              "Value": "7.04"
+            },
+            {
+              "TagName": "FT",
+              "Value": "0"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.418"
+            },
+            {
+              "TagName": "Totalize",
+              "Value": "1545"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2035268,
+          91.463963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P105.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A01-P105",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P105.Battery_Value",
+              "Value": "6.87"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.189"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11390912,
+          91.46321672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P111.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A01-P111",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P111.Battery_Value",
+              "Value": "6.87"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.527"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11504096,
+          91.46565088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P3.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A02-P3",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P3.Battery_Value",
+              "Value": "6.92"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.427"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11312216,
+          91.4636354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P7.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A02-P7",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P7.Battery_Value",
+              "Value": "6.85"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.213"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11297312,
+          91.4628614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P33.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A03-P33",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P33.Battery_Value",
+              "Value": "6.86"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.208"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11455604,
+          91.4722488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P36.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A03-P36",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P36.Battery_Value",
+              "Value": "6.9"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1142414,
+          91.4714172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P147.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A04-P147",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P147.Battery_Value",
+              "Value": "6.86"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.208"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11216564,
+          91.4620586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P147_1.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A04-P147_1",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P147_1.Battery_Value",
+              "Value": "6.93"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.146"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11216564,
+          91.4620586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1099.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A05-P1099",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1099.Battery_Value",
+              "Value": "6.88"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.184"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10158736,
+          91.46141924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P260.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A05-P260",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P260.Battery_Value",
+              "Value": "6.85"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.193"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10425892,
+          91.46131844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1095.FT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A06-P1095",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1095.Battery_Value",
+              "Value": "8.28"
+            },
+            {
+              "TagName": "FT",
+              "Value": "0"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.179"
+            },
+            {
+              "TagName": "Totalize",
+              "Value": "0"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.102983,
+          91.53339972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1103.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A06-P1103",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1103.Battery_Value",
+              "Value": "6.84"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.193"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10298344,
+          91.45279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P314.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A07-P314",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P314.Battery_Value",
+              "Value": "6.87"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.179"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10398316,
+          91.45550008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P521.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A07-P521",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P521.Battery_Value",
+              "Value": "6.81"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.232"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10268392,
+          91.45365436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P587.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A08-P587",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P587.Battery_Value",
+              "Value": "6.88"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.213"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10334956,
+          91.4521366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1011.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A09-P1011",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1011.Battery_Value",
+              "Value": "6.9"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.098"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9569124,
+          91.44590424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P702.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A09-P702",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P702.Battery_Value",
+              "Value": "6.89"
+            },
+            {
+              "TagName": "PT",
+              "Value": "1.303"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1022548,
+          91.4540716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P806.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A10-P806",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P806.Battery_Value",
+              "Value": "6.87"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.189"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10338376,
+          91.44231324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P880.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A10-P880",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P880.Battery_Value",
+              "Value": "6.96"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.217"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10431148,
+          91.44295656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P603.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A11-P603",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P603.Battery_Value",
+              "Value": "6.87"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.274"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1046452,
+          91.455409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P648.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A11-P648",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P648.Battery_Value",
+              "Value": "6.92"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.265"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1064884,
+          91.451467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P488.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A12-P488",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P488.Battery_Value",
+              "Value": "6.9"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.203"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1026094,
+          91.45456552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P529.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A12-P529",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P529.Battery_Value",
+              "Value": "6.8"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.227"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1048072,
+          91.45546804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1001.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A13-P1001",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1001.Battery_Value",
+              "Value": "6.9"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.146"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9351792,
+          91.457776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PointStatusColor": "#008000",
+        "TagName": "P1036.PT_PV",
+        "Value": 0.0,
+        "TagHeader": "5A13-P1036",
+        "TagAttributes": {
+          "Tags": [
+            {
+              "TagName": "P1036.Battery_Value",
+              "Value": "6.9"
+            },
+            {
+              "TagName": "PT",
+              "Value": "0.227"
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1064524,
+          91.44476952
+        ]
+      }
+    }
+  ]
+}
