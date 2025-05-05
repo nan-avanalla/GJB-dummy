@@ -23,7 +23,7 @@
               "Value": "0.418"
             },
             {
-              "TagName": "Totalize",
+              "TagName": "Totalizer",
               "Value": "1545"
             }
           ]
@@ -339,7 +339,7 @@
               "Value": "0.179"
             },
             {
-              "TagName": "Totalize",
+              "TagName": "Totalizer",
               "Value": "0"
             }
           ]
